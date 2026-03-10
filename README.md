@@ -73,7 +73,7 @@ The dataset contains the following tables:
 ### Total Orders by Month
 - **Chart Type:** Line Chart  
 - **Insight:** Shows monthly order trends and identifies **seasonal patterns**. Higher order months may reflect seasonal promotions or increased activity.  
-![Total Orders by Month](Total_order_by_month.png)
+![Total Orders by Month](Total_order_by_montth.png)
 
 ---
 
