@@ -26,7 +26,7 @@ Insight: Shows which pizzas are ordered the most.
 
 **Revenue by City** <br>
 Chart Type: Pie Chart <br>
-Insight: Shows which cities are ordered the most.
+Insight: Identify the city that generates the highest pizza sales revenue.
 ![Revenue by City](revenue_by_city.png)
 
 **Revenue by Pizza Category** <br>
