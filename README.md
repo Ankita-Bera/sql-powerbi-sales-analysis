@@ -37,7 +37,7 @@ Insight: Shows which pizzas are ordered the most.
 **Revenue by Pizza Category And Name** <br>
 Chart Type: Bar Chart <br>
 Insight: Shows which pizzas are ordered the most.
-![Revenue by Pizza Category and name](revenue_by_pizza_category_name.png)
+![Revenue by Pizza Category and name](revenue_by_pizza_category_and_name.png)
 
 **Revenue by Pizza Name** <br>
 Chart Type: Bar Chart <br>
@@ -47,12 +47,12 @@ Insight: Shows which pizzas are ordered the most.
 **Revenue Percentage by Category** <br>
 Chart Type: Bar Chart <br>
 Insight: Shows which pizzas are ordered the most.
-![Quantity by Pizza Name](revenue_percentage_by_cattegory.png)
+![Quantity by Pizza Name](revenue_percentage_by_category.png)
 
 **Total Order by Month** <br>
 Chart Type: Bar Chart <br>
 Insight: Shows which pizzas are ordered the most.
-![Total order by month](Total_order_by_month.png)
+![Total order by month](Total_order_by_montth.png)
 
 **Total order by hour** <br>
 Chart Type: Bar Chart <br>
