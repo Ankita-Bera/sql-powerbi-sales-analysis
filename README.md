@@ -6,11 +6,12 @@ The objective is to identify sales trends, top-performing pizzas, revenue contri
 
 The dataset contains four tables:
 
-Table	          Description
-orders	        Contains order date and time
-order_details	  Quantity of pizzas ordered
-pizzas	        Pizza size and price
-pizza_types	    Pizza name and category
+Table	          Description <br>
+orders	        Contains order ID, order date, and order time <br>
+order_details	  Contains quantity of pizzas ordered for each order <br>
+pizzas	        Contains pizza ID, pizza size, and price <br>
+pizza_types	    Contains pizza name, category, and ingredients <br>
+customers	      Contains customer ID and customer location details such as city <br>
 
 **Tools & Technologies**
 
