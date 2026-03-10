@@ -25,7 +25,7 @@ Insight: This chart highlights the most frequently ordered pizzas. The top pizza
 ![Quantity by Pizza Name](quantity_by_pizza_name.png)
 
 **Revenue by City** <br>
-Chart Type: Pie Chart <br>
+Chart Type: Donut Chart <br>
 Insight: Revenue distribution across cities shows which location generates the largest share of pizza sales. The leading city represents the strongest market for the business, while cities with lower contributions may offer opportunities for expansion or targeted marketing strategies.
 ![Revenue by City](revenue_by_city.png)
 
@@ -45,7 +45,7 @@ Insight: This visualization highlights the top 3 pizzas generating the highest r
 ![Revenue by Pizza Name](revenue_by_pizza_name.png)
 
 **Revenue Percentage by Category** <br>
-Chart Type: Donut Chart <br>
+Chart Type: Pie Chart <br>
 Insight: This chart displays the percentage contribution of each pizza category to total revenue. It provides a clear understanding of how sales are distributed among categories and which categories have the strongest market demand.
 ![Quantity by Pizza Name](revenue_percentage_by_category.png)
 
