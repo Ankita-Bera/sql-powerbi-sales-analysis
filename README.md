@@ -19,7 +19,42 @@ Data Visualization – Microsoft Power BI
 
 ### Key Insights
 
-**Total Quantity by Pizza Name**
-Chart Type: Bar Chart
+**Total Quantity by Pizza Name** <br>
+Chart Type: Bar Chart <br>
 Insight: Shows which pizzas are ordered the most.
 ![Quantity by Pizza Name](quantity_by_pizza_name.png)
+
+**Revenue by City** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Revenue by City](revenue_by_city.png)
+
+**Revenue by Pizza Category** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Revenue by Pizza Category](revenue_by_pizza_category.png)
+
+**Revenue by Pizza Category And Name** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Revenue by Pizza Category and name](revenue_by_pizza_category_name.png)
+
+**Revenue by Pizza Name** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Revenue by Pizza Name](revenue_by_pizza_name.png)
+
+**Revenue Percentage by Category** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Quantity by Pizza Name](revenue_percentage_by_cattegory.png)
+
+**Total Order by Month** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Total order by month](Total_order_by_month.png)
+
+**Total order by hour** <br>
+Chart Type: Bar Chart <br>
+Insight: Shows which pizzas are ordered the most.
+![Total order by hour](order_by_hour.png)
