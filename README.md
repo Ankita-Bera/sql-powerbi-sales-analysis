@@ -56,5 +56,5 @@ Insight: Helps to identify seasonal demand patterns.
 
 **Total order by hour** <br>
 Chart Type: Bar Chart <br>
-Insight: Helps understand customer ordering behavior throughout the day.
+Insight: Helps to understand customer ordering behavior throughout the day.
 ![Total order by hour](order_by_hour.png)
