@@ -14,7 +14,7 @@ pizza_types	    Pizza name and category
 
 **Tools & Technologies**
 
-SQL – Data querying (MySQL)
+SQL – Data querying (MySQL) <br>
 Data Visualization – Microsoft Power BI
 
 ### Key Insights
