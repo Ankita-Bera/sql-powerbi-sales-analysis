@@ -21,7 +21,7 @@ Data Visualization – Microsoft Power BI
 
 **Total Quantity by Pizza Name** <br>
 Chart Type: Bar Chart <br>
-Insight: Insight: This chart highlights the most frequently ordered pizzas. The top pizzas dominate total order quantity, indicating strong customer preference for a few specific pizza types. These items contribute significantly to overall sales volume and should be prioritized in promotions and inventory planning.
+Insight: This chart highlights the most frequently ordered pizzas. The top pizzas dominate total order quantity, indicating strong customer preference for a few specific pizza types. These items contribute significantly to overall sales volume and should be prioritized in promotions and inventory planning.
 ![Quantity by Pizza Name](quantity_by_pizza_name.png)
 
 **Revenue by City** <br>
