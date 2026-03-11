@@ -1,4 +1,4 @@
-# SQL-PowerBI Sales Analysis
+# SQL-PowerBI Pizza Sales Data Analysis
 
 This project analyzes **Pizza sales data** using **MySQL** for querying and **Microsoft Power BI** for interactive visualization.  
 The objective is to identify **sales trends**, **top-performing pizzas**, **revenue contribution by category**, and **customer ordering patterns**.
